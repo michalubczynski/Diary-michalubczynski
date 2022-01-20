@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pamietnik.txt</file>
+        <file>Recovery.txt</file>
+        <file>img1.png</file>
+    </qresource>
+</RCC>

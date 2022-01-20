@@ -1,0 +1,20 @@
+Jakis wpis NORMALNY do usuniecia 
+Times New Roman,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Wed Dec 15 10:45:22 2021
+#00ff00
+
+Zwykly wpis red kursywa
+Times New Roman,12,-1,5,400,1,0,0,0,0,0,0,0,0,0,1
+Wed Dec 15 10:45:02 2021
+#ff0000
+
+Drugi wpis IMG  BLUE  BOLD
+Times New Roman,12,-1,5,700,0,0,0,0,0,0,0,0,0,0,1
+Wed Dec 15 10:44:27 2021
+#0000ff
+C:/Users/micha/Documents/GitHub/pamietnik-michalubczynski/img1.png
+HI
+Times New Roman,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Wed Dec 15 00:10:23 2021
+#00ff00
+
